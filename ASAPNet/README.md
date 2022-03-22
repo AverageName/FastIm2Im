@@ -71,6 +71,8 @@ python test.py --name [name_of_experiment] --dataset_mode [dataset_mode] --datar
 you can load the parameters used from training by specifying `--load_from_opt_file`.
 
 ## Metrics calculation
+In order to run metrics calculation you need to download segmentation model checkpoint and put in in the main folder.
+You should download drn-d-105-ms_cityscapes.pth model trained on Cityscapes from here: http://go.yf.io/drn-cityscapes-models.
 In order to calculate mIoU and FID place generated images and corresponding labels in two folders in one folder, for ex. results/images and results/labels.
 
 Then run
