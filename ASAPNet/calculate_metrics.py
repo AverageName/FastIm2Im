@@ -577,7 +577,7 @@ def test_seg(args):
 
 if __name__ == "__main__":
     parser = ArgumentParser()
-    parser.add_argument('--data_dir', default='./results_asapnet/')
+    parser.add_argument('--data_dir', default='./results/')
     parser.add_argument('--classes', default=19)
     parser.add_argument('--batch_size', default=1)
     parser.add_argument('--pretrained', default='../drn-d-105_ms_cityscapes.pth')
