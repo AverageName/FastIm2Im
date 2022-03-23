@@ -8,8 +8,8 @@ Link to the video presentation: [Link](https://docs.google.com/presentation/d/1V
 
 ## Project Structure
 
-- `ASAPNet`: code for ASAPNet model - image2image translation case 
-- `Pix2Pix`: code for Pix2Pix model - image2image translation case 
-- `denoising`: code for research part of the project - DnCNN and ASAPNet denoising models
+- `ASAPNet`: code for ASAPNet model — image2image translation case 
+- `Pix2Pix`: code for Pix2Pix model — image2image translation case 
+- `denoising`: code for research part of the project — DnCNN and ASAPNet denoising models
 
 All the details are in the folders' own READMEs
