@@ -2,9 +2,9 @@
 
 This is a GitHub repository of FastIm2Im project for Skoltech ML course (2022).
 
-Link to the slides: (Link)[https://docs.google.com/presentation/d/1VhlPPGtyMzGzHkACw0M9pxrOm7wo8_vGzC9RwNy0ygk/edit?usp=sharing]
+Link to the slides: [Link](https://docs.google.com/presentation/d/1VhlPPGtyMzGzHkACw0M9pxrOm7wo8_vGzC9RwNy0ygk/edit?usp=sharing)
 
-Link to the video presentation: (Link)[https://docs.google.com/presentation/d/1VhlPPGtyMzGzHkACw0M9pxrOm7wo8_vGzC9RwNy0ygk/edit?usp=sharing]
+Link to the video presentation: [Link](https://docs.google.com/presentation/d/1VhlPPGtyMzGzHkACw0M9pxrOm7wo8_vGzC9RwNy0ygk/edit?usp=sharing)
 
 ## Project Structure
 
